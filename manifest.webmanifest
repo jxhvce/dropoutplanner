@@ -1,0 +1,17 @@
+{
+  "name": "Dropout♡",
+  "short_name": "Dropout♡",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#111827",
+  "description": "A fully customisable school planner with classes, assignments, exams, subject notes, file attachments, AI helper and cloud sync.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
