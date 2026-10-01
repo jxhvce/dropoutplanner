@@ -1,4 +1,4 @@
-const CACHE="dropout-planners-v3.0";
+const CACHE="dropout-v3.2-supabase";
 const ASSETS=["./","./index.html","./style.css","./app.js","./manifest.webmanifest","./icon.svg"];
 
 self.addEventListener("install",event=>{

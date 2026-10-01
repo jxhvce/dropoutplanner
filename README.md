@@ -82,3 +82,13 @@ using (
 The `note-files` bucket is private. The app generates short-lived signed links when you open attachments.
 
 The existing `planner_data` table and policies are still required for planner sync.
+
+
+## v3.2 Supabase project
+
+Configured for:
+
+- Project URL: `https://ubnqqbiwttauzlzkuscn.supabase.co`
+- Publishable browser key: configured in `app.js`
+
+You still need to create the `planner_data` table and the private `note-files` storage bucket/policies in this new Supabase project.

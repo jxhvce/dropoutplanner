@@ -1,6 +1,6 @@
 const KEY="lifePlannerV2";
-const SUPABASE_URL="https://jhzxvoanehgfudlpeooc.supabase.co";
-const SUPABASE_PUBLISHABLE_KEY="sb_publishable_pZIO3Z71P3aNdfLYHlsyJg_CeDVBwVi";
+const SUPABASE_URL="https://ubnqqbiwttauzlzkuscn.supabase.co";
+const SUPABASE_PUBLISHABLE_KEY="sb_publishable_ebNPsZHVb-nsVSF2pCgeXA_G5NQroPP";
 const supabaseClient=window.supabase.createClient(SUPABASE_URL,SUPABASE_PUBLISHABLE_KEY);
 let currentUser=null;
 let cloudReady=false;
